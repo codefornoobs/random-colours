@@ -1,1 +1,3 @@
-*.java linguist-language=C#
+App1/App1/bin/* linguist-vendored
+
+App1/App1/obj/* linguist-vendored
